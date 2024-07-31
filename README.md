@@ -1,2 +1,2 @@
 # thisplus
-this+: Advance "this"
+this<sup>+</sup>: Advance "this"
